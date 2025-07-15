@@ -1,0 +1,18 @@
+.NumOne, .NumTwo{
+  font-size: 36px;
+  font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.NumOne{
+color: white;
+background-color: black;
+
+
+}
+
+.NumTwo{
+color:black;
+background-color: yellow;
+
+
+}
